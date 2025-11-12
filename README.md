@@ -19,9 +19,10 @@ When the game ends, restart and try for a better score!
 6. Fully responsive design
 
 ## 🧩 Project Versions
-###    Version	                                        Language	                      Play Method  
-🐍 Python Version	                            Python (Turtle)	                Local execution  
-🌐 Web Version	                           HTML, CSS, JavaScript	          Browser — Play Anytime!
+| Version      | Language           | How to Play                  |
+|--------------|--------------------|------------------------------|
+| 🐍 Python    | Python (Turtle)    | Local execution in Python    |
+| 🌐 Web       | HTML, CSS, JS      | Play anytime in the browser  |
 
 ## 📂 Project Structure
 Snake-Game/  
